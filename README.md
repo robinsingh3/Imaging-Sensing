@@ -64,12 +64,10 @@ Validation: Apply the calibration to correct distortion in test images and verif
 CMOS Benefits: CMOS sensors are preferred in mobile applications because they offer faster readout speeds, lower power usage, and the ability to integrate additional functionalities, all of which are critical for mobile devices.
 
 
-**Question 3:
-**
+**Question 3:**
 You are tasked with designing an imaging system for a new mobile device that requires high performance in low-light conditions. What sensor characteristics and technologies would you consider to meet this requirement?
 
-**Answer:
-**
+**Answer:**
 Sensor Characteristics and Technologies:
 
 Larger Pixel Size:
@@ -86,12 +84,11 @@ Optical Image Stabilization (OIS):
 Allows longer exposure times without motion blur.
 Use of AI and Computational Photography:
 Employ algorithms to enhance image quality, such as stacking multiple frames.
-**Question 4:
-**
+
+**Question 4:**
 Explain how an Image Signal Processor (ISP) pipeline works in a camera system. What are the key stages, and how do they contribute to the final image quality?
 
-**Answer:
-**
+**Answer:**
 ISP Pipeline Key Stages:
 
 Raw Data Acquisition:
@@ -118,28 +115,12 @@ Contribution to Final Image Quality:
 
 Each stage refines the raw data to correct imperfections and enhance visual appeal.
 Proper tuning of these stages ensures accurate colors, low noise, and sharp details.
-**Question 5:
-**
-Describe an instance where you had to solve a complex problem related to imaging solutions. What was the problem, and how did you approach and resolve it?
 
-**Answer:
-**
-Instance:
 
-Problem: Developing a real-time HDR imaging solution for a mobile camera that struggled with high-contrast scenes.
-Approach:
-Analysis: Determined that traditional HDR methods caused motion artifacts due to hand movement between frames.
-Solution: Implemented a single-shot HDR algorithm using a specialized sensor capable of capturing multiple exposures simultaneously.
-Processing: Developed custom ISP algorithms to merge exposures in real-time.
-Resolution:
-Successfully produced HDR images without motion artifacts.
-Enhanced user experience with vivid images in challenging lighting.
-**Question 6:
-**
+**Question 6:**
 In computational photography, what is the role of HDR imaging, and how does it improve image quality? Explain the challenges involved in implementing HDR on mobile devices.
 
-**Answer:
-**
+**Answer:**
 Role of HDR Imaging:
 
 HDR imaging combines multiple exposures to capture details in both shadows and highlights, exceeding the dynamic range of a single exposure.
@@ -162,12 +143,11 @@ Solutions:
 Use algorithms that align images to mitigate motion artifacts.
 Optimize code for efficiency and leverage dedicated hardware acceleration.
 Implement single-shot HDR sensors.
-**Question 7:
-**
+
+**Question 7:**
 What are the key considerations when simulating optical systems for camera design? Describe how optical simulation contributes to the development of imaging systems.
 
-**Answer:
-**
+**Answer:**
 Key Considerations:
 
 Lens Design Parameters:
@@ -185,12 +165,10 @@ Contribution to Development:
 Predictive Modeling: Allows engineers to anticipate performance before physical prototypes.
 Optimization: Helps in refining lens designs to meet specific performance criteria.
 Cost and Time Efficiency: Reduces the need for multiple physical prototypes, saving resources.
-**Question 8:
-**
+**Question 8:**
 How would you use Python or Matlab to process and analyze image data from a CMOS sensor? Provide an overview of the steps involved.
 
-**Answer:
-**
+**Answer:**
 Steps:
 
 Importing Data:
@@ -212,12 +190,10 @@ Display images and plots to interpret results.
 Tools:
 
 Utilize libraries like OpenCV in Python or Image Processing Toolbox in Matlab.
-**Question 9:
-**
+**Question 9:**
 Discuss the challenges and solutions in designing camera systems for augmented reality (AR) applications on mobile devices.
 
-**Answer:
-**
+**Answer:**
 Challenges:
 
 Latency:
@@ -238,12 +214,10 @@ Sensor Fusion:
 Combine data from cameras, gyroscopes, and accelerometers.
 Adaptive Systems:
 Implement algorithms that adjust to environmental changes.
-**Question 10:
-**
+**Question 10:**
 Explain the concept of computational photography. How does it differ from traditional photography, and what are some examples of computational photography techniques used in mobile devices?
 
-**Answer:
-**
+**Answer:**
 Concept:
 
 Computational photography uses digital processing to enhance or extend the capabilities of traditional imaging.
@@ -261,12 +235,10 @@ Panorama Stitching:
 Combines several images into a wide-view panorama.
 HDR Imaging:
 Merges different exposures to capture high dynamic range scenes.
-**Question 11:
-**
+**Question 11:**
 How would you collaborate effectively with cross-functional teams, such as optics, sensors, calibration, and software teams, in developing a new camera system?
 
-**Answer:
-**
+**Answer:**
 Collaboration Strategies:
 
 Communication:
@@ -281,11 +253,10 @@ Integrative Planning:
 Coordinate timelines to ensure dependencies are managed.
 Problem-Solving:
 Work collaboratively to address challenges.
-**Question 12:
-**
+**Question 12:**
 Provide an example of how you would use computer vision algorithms in developing imaging solutions. What specific algorithms might be relevant, and how would they be applied?
 
-Answer:
+**Answer:**
 
 Example: Implementing an Automatic Focus System
 
@@ -296,12 +267,11 @@ Application:
 Capture images at different focus settings.
 Apply algorithms to determine the sharpness at each setting.
 Adjust the lens to the position with the highest sharpness metric.
-**Question 13:
-**
+
+**Question 13:**
 What are some of the latest advancements in image sensor technology, and how do they impact imaging systems in mobile devices?
 
-Answer:
-
+**Answer:**
 Advancements:
 
 Stacked Sensors:
@@ -320,11 +290,11 @@ Enhanced Features:
 Enables advanced functions like AR and portrait modes.
 Efficiency:
 Reduces power consumption, prolonging battery life.
-**Question 14:
-**
+
+**Question 14:**
 How do you stay current with the latest developments in imaging technology and apply them to your work?
 
-Answer:
+**Answer:**
 
 Staying Current:
 
@@ -345,11 +315,11 @@ Update existing systems with improved techniques.
 Education:
 Share knowledge with team members.
 
-**Question 15:
-**
+**Question 15:**
+
 Describe the role of machine learning in modern imaging systems. Provide an example of how it can be used to enhance camera performance.
 
-Answer:
+**Answer:**
 
 Role of Machine Learning:
 
