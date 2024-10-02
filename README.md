@@ -165,6 +165,7 @@ Contribution to Development:
 Predictive Modeling: Allows engineers to anticipate performance before physical prototypes.
 Optimization: Helps in refining lens designs to meet specific performance criteria.
 Cost and Time Efficiency: Reduces the need for multiple physical prototypes, saving resources.
+
 **Question 8:**
 How would you use Python or Matlab to process and analyze image data from a CMOS sensor? Provide an overview of the steps involved.
 
@@ -190,6 +191,7 @@ Display images and plots to interpret results.
 Tools:
 
 Utilize libraries like OpenCV in Python or Image Processing Toolbox in Matlab.
+
 **Question 9:**
 Discuss the challenges and solutions in designing camera systems for augmented reality (AR) applications on mobile devices.
 
@@ -214,6 +216,7 @@ Sensor Fusion:
 Combine data from cameras, gyroscopes, and accelerometers.
 Adaptive Systems:
 Implement algorithms that adjust to environmental changes.
+
 **Question 10:**
 Explain the concept of computational photography. How does it differ from traditional photography, and what are some examples of computational photography techniques used in mobile devices?
 
@@ -235,6 +238,7 @@ Panorama Stitching:
 Combines several images into a wide-view panorama.
 HDR Imaging:
 Merges different exposures to capture high dynamic range scenes.
+
 **Question 11:**
 How would you collaborate effectively with cross-functional teams, such as optics, sensors, calibration, and software teams, in developing a new camera system?
 
@@ -253,6 +257,7 @@ Integrative Planning:
 Coordinate timelines to ensure dependencies are managed.
 Problem-Solving:
 Work collaboratively to address challenges.
+
 **Question 12:**
 Provide an example of how you would use computer vision algorithms in developing imaging solutions. What specific algorithms might be relevant, and how would they be applied?
 
@@ -291,29 +296,6 @@ Enables advanced functions like AR and portrait modes.
 Efficiency:
 Reduces power consumption, prolonging battery life.
 
-**Question 14:**
-How do you stay current with the latest developments in imaging technology and apply them to your work?
-
-**Answer:**
-
-Staying Current:
-
-Continuous Learning:
-Attend industry conferences and webinars.
-Reading Research Papers:
-Follow journals and publications.
-Networking:
-Engage with professional communities and forums.
-Experimentation:
-Test new technologies and methodologies.
-Application:
-
-Innovation:
-Integrate new findings into project designs.
-Optimization:
-Update existing systems with improved techniques.
-Education:
-Share knowledge with team members.
 
 **Question 15:**
 
